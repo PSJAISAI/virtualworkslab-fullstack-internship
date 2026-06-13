@@ -1,0 +1,39 @@
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(
+    135deg,#667eea,#764ba2);
+    color:white;
+    text-align:center;
+    margin:0;
+}
+
+.container{
+    padding:30px;
+}
+
+.quote-box{
+    background:white;
+    color:#333;
+    width:70%;
+    margin:auto;
+    padding:25px;
+    border-radius:15px;
+}
+
+button{
+    background:#764ba2;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.history-card{
+    background:white;
+    color:#333;
+    width:70%;
+    margin:10px auto;
+    padding:15px;
+    border-radius:10px;
+}
